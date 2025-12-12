@@ -37,11 +37,6 @@ body {
   margin-bottom: 25px;
 }
 
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 100% 50%; }
-}
-
 .hero p {
   font-size: 22px;
   opacity: 0.92;
@@ -120,8 +115,7 @@ footer {
 
 <!-- Hero -->
 <header class="hero">
-  <img src="https://cdn.discordapp.com/attachments/1366357151265849394/1448996482995847248/Orchid_coast_Presentation_2.png?ex=693d4aa2&is=693bf922&hm=52f027f825102f77e6015ed66caa184334d075c51c45a521b417c520575cc71b&
-" class="logo-glow">
+  <img src="https://cdn.discordapp.com/attachments/1366357151265849394/1448996482995847248/Orchid_coast_Presentation_2.png" class="logo-glow">
   <h2>เกิร์ลกรุ๊ปสุดเฟียร์เลส เท่ ล้ำ แบบฉบับ Gen Z</h2>
   <a href="#about" class="neon-btn w3-margin-top">เริ่มพรีเซนต์เลย!</a>
 </header>
@@ -233,7 +227,7 @@ footer {
 
     <div class="w3-third">
       <div class="member-card w3-round">
-        <img src="https://i.ytimg.com/vi/bNKXxwOQYB8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1Zu0p4ZFf_6x4MXRXbDL5LXodZg" class="card-img">
+        <img src="https://i.ytimg.com/vi/bNKXxwOQYB8/hq720.jpg" class="card-img">
         <div class="w3-container">
           <h3>EASY</h3>
           <p>มินิมอล ดิบ เท่ ไวรัลกระหึ่มทั้งโลก</p>
